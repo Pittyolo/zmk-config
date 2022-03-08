@@ -1,9 +1,9 @@
 # Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_CHALICE
+if SHIELD_NEITO
 
 config ZMK_KEYBOARD_NAME
-    default "Neito"
+    default "neito"
 
 endif
